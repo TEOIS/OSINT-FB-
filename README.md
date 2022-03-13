@@ -42,7 +42,8 @@ Made with ❤️ by <a href="https://github.com/TEOIS">TEOIS</a>
 | Dump URL Profile Member Group      | :white_check_mark: | retrieve all url profile member on group database  |
 | Brute Force ID                     | :white_check_mark: | brute force your friends by ID                     |
 | Brute Force ID Member Group        | :white_check_mark: | brute force Member Group by ID                     |
-
+## Note
+    Before using this tool unzip OSINT-FB 📂 folder for properly used
 
 
 ## Installation
@@ -63,7 +64,8 @@ You can download the latest composer in [here](https://getcomposer.org/download/
     pkg update
 
     git clone https://github.com/TEOIS/OSINT-FB.git
-
+    
+    bash unzip.sh
 
 ## Requirements for using this tool
 
